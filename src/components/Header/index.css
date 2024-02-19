@@ -1,0 +1,64 @@
+.nav-left{
+    display: flex;
+    flex-direction: row;
+    padding:10px;
+    margin:10px;
+
+}
+body{
+    min-height: 100vh;
+}
+.spur{
+    font-size: 40px;
+    font-weight: 1000;
+    text-decoration:underline;
+    font-style: oblique;
+    color:rgb(56, 56, 155);
+    font-family: Calibri;
+    cursor: pointer;
+
+}
+.items{
+    padding:10px;
+    margin:10px;
+    color:black;
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.login{
+    font-size: 18px;
+    font-family: sans-serif;
+    border-width: 2px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-color: black;
+    color:black;
+    font-weight: bold;
+    background-color: transparent;
+    height: 50px;
+    width: 100px;
+    padding:10px;
+    margin:10px;
+    align-content:end;
+}
+.signup{
+    font-size: 18px;
+    font-family: sans-serif;
+    border-width: 2px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding:10px;
+    align-content: end;
+    margin:10px;
+    color:white;
+    font-weight: bold;
+    background-color: black;
+    height: 50px;
+    width: 100px;
+}

@@ -1,0 +1,29 @@
+.social-icons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:10px; margin: 10px;
+    background-color: black;
+    margin-bottom: 0px;
+}
+.follow{
+    text-align: center;
+    color: white;
+}
+.media{
+    text-align: center;
+    align-items: center;
+    padding:5px;
+    color:black;
+    color: white;
+}
+.media-icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:white;
+    padding:10px;
+  
+    margin-bottom: 0px;
+}
